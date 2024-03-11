@@ -3,6 +3,6 @@
 
 <template>
   <main>
-    <h1 class="text-center text-red-800">Home</h1>
+    <h1 class="text-center text-red-800 font-semibold">Page d'accueil</h1>
   </main>
 </template>
